@@ -284,6 +284,6 @@ get_header(); ?>
             </div>
         </div>
     </section>
-<div id='newsandrecordings'></div>
+			<div id='newsandrecordings'></div>
 <?php
 get_footer();
